@@ -1,0 +1,16 @@
+Compile with javac *.java
+Run with java TFTPClient.
+No command line arguments expected.
+
+connect to a server with: connect <server_name>
+
+To download a file type: get <filename> <filename>.... <filename>
+Can download multiple files with single command.
+
+quit to quit.
+
+
+
+
+
+
